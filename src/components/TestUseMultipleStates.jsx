@@ -1,4 +1,5 @@
 import React from 'react';
+import { partial } from 'ramda';
 import { useMultipleStates } from '../hooks'
 
 const TestUseMultipleStates = () => {
